@@ -103,7 +103,86 @@ public class GameBoard_USA extends GameBoard {
 		
 		tracks.add(new Connection(City.EL_PASO, City.DALLAS, TrackColor.RED, 4));
 		
+		tracks.add(new Connection(City.WINNIPEG, City.SAULT_ST_MARY, TrackColor.GRAY, 6));
 		
+		tracks.add(new Connection(City.DULUTH, City.SAULT_ST_MARY, TrackColor.GRAY, 3));
 		
+		tracks.add(new Connection(City.DULUTH, City.TORONTO, TrackColor.PINK, 6));
+		
+		tracks.add(new Connection(City.DULUTH, City.CHICAGO, TrackColor.RED, 3));
+		
+		tracks.add(new Connection(City.OMAHA, City.CHICAGO, TrackColor.BLUE, 4));
+		
+		tracks.add(new Connection(City.KANSAS_CITY, City.SAINT_LOUIS, TrackColor.BLUE, 2));
+		tracks.add(new Connection(City.KANSAS_CITY, City.SAINT_LOUIS, TrackColor.PINK, 2));
+		
+		tracks.add(new Connection(City.OKLAHOMA_CITY, City.LITTLE_ROCK, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.SAULT_ST_MARY, City.MONTREAL, TrackColor.BLACK, 5));
+		
+		tracks.add(new Connection(City.SAULT_ST_MARY, City.TORONTO, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.MONTREAL, City.TORONTO, TrackColor.GRAY, 3));
+		
+		tracks.add(new Connection(City.MONTREAL, City.BOSTON, TrackColor.GRAY, 2));
+		tracks.add(new Connection(City.MONTREAL, City.BOSTON, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.MONTREAL, City.NEW_YORK, TrackColor.BLUE, 3));
+		
+		tracks.add(new Connection(City.BOSTON, City.NEW_YORK, TrackColor.YELLOW, 2));
+		tracks.add(new Connection(City.BOSTON, City.NEW_YORK, TrackColor.RED, 2));
+		
+		tracks.add(new Connection(City.CHICAGO, City.TORONTO, TrackColor.WHITE, 4));
+		
+		tracks.add(new Connection(City.PITTSBURGH, City.TORONTO, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.PITTSBURGH, City.CHICAGO, TrackColor.BLACK, 3));
+		tracks.add(new Connection(City.PITTSBURGH, City.CHICAGO, TrackColor.ORANGE, 3));
+		
+		tracks.add(new Connection(City.SAINT_LOUIS, City.CHICAGO, TrackColor.GREEN, 2));
+		tracks.add(new Connection(City.SAINT_LOUIS, City.CHICAGO, TrackColor.WHITE, 2));
+		
+		tracks.add(new Connection(City.SAINT_LOUIS, City.LITTLE_ROCK, TrackColor.GRAY, 2));
+		tracks.add(new Connection(City.SAINT_LOUIS, City.NASHVILLE, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.NEW_ORLEANS, City.LITTLE_ROCK, TrackColor.GREEN, 3));
+		
+		tracks.add(new Connection(City.NASHVILLE, City.LITTLE_ROCK, TrackColor.WHITE, 3));
+		
+		tracks.add(new Connection(City.NEW_ORLEANS, City.ATLANTA, TrackColor.ORANGE, 4));
+		tracks.add(new Connection(City.NEW_ORLEANS, City.ATLANTA, TrackColor.YELLOW, 4));
+		
+		tracks.add(new Connection(City.NASHVILLE, City.ATLANTA, TrackColor.GRAY, 1));
+		
+		tracks.add(new Connection(City.CHARLESTON, City.ATLANTA, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.CHARLESTON, City.MIAMI, TrackColor.PINK, 4));
+		
+		tracks.add(new Connection(City.ATLANTA, City.MIAMI, TrackColor.BLUE, 5));
+		
+		tracks.add(new Connection(City.ATLANTA, City.RALEIGH, TrackColor.GRAY, 2));
+		tracks.add(new Connection(City.ATLANTA, City.RALEIGH, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.CHARLESTON, City.RALEIGH, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.WASHINGTON, City.RALEIGH, TrackColor.GRAY, 2));
+		tracks.add(new Connection(City.WASHINGTON, City.RALEIGH, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.PITTSBURGH, City.RALEIGH, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.NASHVILLE, City.RALEIGH, TrackColor.BLACK, 3));
+		
+		tracks.add(new Connection(City.PITTSBURGH, City.WASHINGTON, TrackColor.GRAY, 2));
+		
+		tracks.add(new Connection(City.PITTSBURGH, City.NEW_YORK, TrackColor.WHITE, 2));
+		tracks.add(new Connection(City.PITTSBURGH, City.NEW_YORK, TrackColor.GREEN, 2));
+		
+		tracks.add(new Connection(City.PITTSBURGH, City.SAINT_LOUIS, TrackColor.GREEN, 5));
+		tracks.add(new Connection(City.PITTSBURGH, City.NASHVILLE, TrackColor.YELLOW, 4));
+		
+		tracks.add(new Connection(City.WASHINGTON, City.NEW_YORK, TrackColor.ORANGE, 2));
+		tracks.add(new Connection(City.WASHINGTON, City.NEW_YORK, TrackColor.BLACK, 2));
 	}
 }
+
+
